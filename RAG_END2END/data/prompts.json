@@ -1,0 +1,14 @@
+{
+  "rag_qa": {
+    "system": "Answer questions based only on the provided context. Be concise.",
+    "template": "Context:\n{context}\n\nQuestion: {question}\n\nAnswer:"
+  },
+  "summarize": {
+    "system": "You are a summarization expert.",
+    "template": "Summarize the following text in {num_sentences} sentences:\n\n{text}"
+  },
+  "extract": {
+    "system": "Extract structured information from text. Respond in JSON.",
+    "template": "Text: {text}\n\nExtract the following fields: {fields}"
+  }
+}

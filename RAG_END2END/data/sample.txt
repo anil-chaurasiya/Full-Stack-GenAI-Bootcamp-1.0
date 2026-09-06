@@ -1,0 +1,21 @@
+This is a sample PDF document for testing RAG pipeline components.
+
+The document covers several important topics related to Artificial Intelligence:
+
+Chapter 1: Introduction to AI
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn. AI systems can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.
+
+Chapter 2: Machine Learning
+Machine Learning is a subset of AI that focuses on building systems that learn from data. Instead of being explicitly programmed, these systems improve their performance through experience. Common types include supervised learning, unsupervised learning, and reinforcement learning.
+
+Chapter 3: Deep Learning
+Deep Learning is a subset of Machine Learning that uses neural networks with many layers (deep neural networks). These models are particularly effective at processing unstructured data like images, text, and audio.
+
+Chapter 4: Natural Language Processing
+NLP is a branch of AI that helps computers understand, interpret, and generate human language. Key tasks include text classification, named entity recognition, sentiment analysis, and machine translation.
+
+Chapter 5: Large Language Models
+Large Language Models (LLMs) are deep learning models trained on massive amounts of text data. They can generate human-like text, answer questions, summarize documents, and perform various language tasks. Examples include GPT, LLaMA, Gemini, and Claude.
+
+Chapter 6: Retrieval-Augmented Generation
+RAG combines the power of retrieval systems with generative AI. Instead of relying solely on the model's training data, RAG retrieves relevant documents from a knowledge base and uses them to generate more accurate and up-to-date responses. This approach helps reduce hallucinations and provides grounded answers.

@@ -1,0 +1,6 @@
+Concept,Description,Category
+RAG,Retrieval-Augmented Generation - combines retrieval with LLM generation,Architecture
+FAISS,Facebook AI Similarity Search - fast local vector search library,Vector DB
+ChromaDB,Open-source embedding database for local development,Vector DB
+Chunking,Splitting documents into smaller pieces for better retrieval,Data Processing
+Embedding,Converting text to numerical vectors that capture semantic meaning,Representation

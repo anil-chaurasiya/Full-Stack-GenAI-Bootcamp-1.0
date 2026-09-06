@@ -1,0 +1,26 @@
+{
+  "topics": [
+    {
+      "name": "RAG Pipeline",
+      "description": "End-to-end pipeline for retrieval-augmented generation",
+      "components": [
+        "Loader",
+        "Splitter",
+        "Embeddings",
+        "Vector Store",
+        "Retriever",
+        "LLM"
+      ]
+    },
+    {
+      "name": "Vector Database",
+      "description": "Database optimized for storing and searching vector embeddings",
+      "components": [
+        "FAISS",
+        "ChromaDB",
+        "Pinecone",
+        "Qdrant"
+      ]
+    }
+  ]
+}
