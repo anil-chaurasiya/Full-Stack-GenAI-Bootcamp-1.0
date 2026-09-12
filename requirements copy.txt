@@ -1,0 +1,15 @@
+ipykernel
+python-dotenv
+pydantic
+langchain
+langchain-community
+langgraph
+langgraph-checkpoint-sqlite
+langgraph-checkpoint-postgres
+langchain_google_genai
+langchain-openai
+langchain-groq
+langchain-openrouter
+langchain-huggingface
+langchain-anthropic
+langchain-ollama
